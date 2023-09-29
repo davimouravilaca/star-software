@@ -1,0 +1,11 @@
+#carouselExample img {
+    width: 100%;
+    height: 400px; /* Altura fixa para as imagens */
+    object-fit: cover; /* Mantém a proporção da imagem e cobre todo o espaço */
+}
+
+#carouselExample {
+    /*max-width: 800px; Largura máxima do carrossel conforme necessário */
+    max-height: 400px; /* Altura máxima do carrossel conforme necessário */
+    margin: auto; /* Centraliza o carrossel na página */
+}
