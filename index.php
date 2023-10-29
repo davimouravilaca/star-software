@@ -45,8 +45,12 @@
         Somos uma desenvolvedora independente que utiliza das melhores tecnologias do mercado com o objetivo de atender da maneira mais efetivas os nossos clientes mais únicos com suas necessidades exclusivas.
         Seja uma empresa inovadora necessitando de um software robusto e eficaz ou uma pequena loja em busca de uma hospedagem acessível e confiável, a <strong>Star Software</strong> 
         <img src="https://icons.iconarchive.com/icons/pictogrammers/material/128/death-star-variant-icon.png" alt="logo" width="20" height="20"> é a escolha ideal para você.
+    </p>
+    </div>
 
-        <figure>
+    <div class="container-sm text-start">
+    <h2 class="display-4 b-2">Nossos Projetos</h2>
+    <figure>
   <blockquote class="blockquote">
     <p>"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."</p>
   </blockquote>
@@ -54,11 +58,6 @@
   John von Neumann in <cite title="Source Title">Association for Computing Machinery, 1947</cite>
   </figcaption>
 </figure>   
-    </p>
-    </div>
-
-    <div class="container-sm text-start">
-    <h2 class="display-4 b-2">Nossos Projetos</h2>
     <p class="lead">Divirta-se com algumas de nossas aplicações enquanto experimenta todo o poder de nossos servidores <strong>Vulture™</strong>:</p>
     </div>
     <div class="row" style="width: 36rem;">
